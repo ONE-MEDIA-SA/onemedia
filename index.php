@@ -14,7 +14,9 @@
   <link href="assets/img/ONEMEDIA.png" rel="ONEMEDIA-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -40,7 +42,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html"><img src="assets/img/ONEMEDIA.png"/></a></h1>
+      <h1 class="logo"><a href="index.html"><img src="assets/img/ONEMEDIA.png" /></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -146,35 +148,39 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/about.png" class="img-fluid" alt="">
+            <img src="assets/img/PRESENTATION.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
             <h3>Sobre nós</h3>
             <p class="font-italic">
-              A Onemedia – Gestão de media e eventos é uma agência de publicidade que opera no mercado há 9 anos e oferece serviços de criação, design, impressão e produção e gestão de eventos. É constituída por jovens moçambicanos ousados, com significativa experiência profissional em desenvolvimento de ferramentas de comunicação, Marketing e produção de eventos.
+              A Onemedia – Gestão de media e eventos é uma agência de publicidade que opera no mercado há 9 anos e
+              oferece serviços de criação, design, impressão e produção e gestão de eventos. É constituída por jovens
+              moçambicanos ousados, com significativa experiência profissional em desenvolvimento de ferramentas de
+              comunicação, Marketing e produção de eventos.
             </p>
             <ul hidden>
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-             
+
             </ul>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              O mercado publicitário moçambicano está a 
-tornar-se cada vez mais exigente. Boas acções 
-já não são suficientes. Há que ser excelente e 
-trazer resultados para os clientes.
+              O mercado publicitário moçambicano está a
+              tornar-se cada vez mais exigente. Boas acções
+              já não são suficientes. Há que ser excelente e
+              trazer resultados para os clientes.
               <i class="bx bxs-quote-alt-left quote-icon-right"></i>
               <br>
-              <i class="">Cassamo Nuvunga - <span>PCA & Director Executivo</span></i> 
+              <i class="">Cassamo Nuvunga - <span>PCA & Director Executivo</span></i>
             </p>
-            
+
             <p>
-              
-              Uma agência comprometida com a busca incessante pela excelência na oferta de 
-              produtos e serviços. O visível crescimento anual é fruto da dedicação e profissionalismo da sua equipa de colaboradores, o que a possibilita superar os desafios 
+
+              Uma agência comprometida com a busca incessante pela excelência na oferta de
+              produtos e serviços. O visível crescimento anual é fruto da dedicação e profissionalismo da sua equipa de
+              colaboradores, o que a possibilita superar os desafios
               do mercado em crise desde 2015.</p>
-           
-            
+
+
           </div>
         </div>
 
@@ -188,22 +194,26 @@ trazer resultados para os clientes.
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
+              class="purecounter"></span>
             <p>Clientes</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
+              class="purecounter"></span>
             <p>Projectos</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
+              class="purecounter"></span>
             <p>Horas de Trabalho</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
+              class="purecounter"></span>
             <p>Membros da Equipa</p>
           </div>
 
@@ -227,7 +237,8 @@ trazer resultados para os clientes.
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tv"></i></div>
               <h4><a href="">Publicidade</a></h4>
-              <p>Criação e desenvolvimento de campanhas de publicidade para variados meios (rádio, TV, web e print) e videos institucionais.</p>
+              <p>Criação e desenvolvimento de campanhas de publicidade para variados meios (rádio, TV, web e print) e
+                videos institucionais.</p>
             </div>
           </div>
 
@@ -235,7 +246,8 @@ trazer resultados para os clientes.
             <div class="icon-box">
               <div class="icon"><i class="bx bx-star"></i></div>
               <h4><a href="">Relações Públicas</a></h4>
-              <p>Definição e implementação de estratégias que influenciam a opinião pública à favor da marca do cliente.</p>
+              <p>Definição e implementação de estratégias que influenciam a opinião pública à favor da marca do cliente.
+              </p>
             </div>
           </div>
 
@@ -243,7 +255,8 @@ trazer resultados para os clientes.
             <div class="icon-box">
               <div class="icon"><i class="bx bx-calendar-event"></i></div>
               <h4><a href="">Produção de Eventos</a></h4>
-              <p>Concepção e produção de eventos corporativos de pequena e larga escala (conferências, feiras, lançamento de marcas, etc).</p>
+              <p>Concepção e produção de eventos corporativos de pequena e larga escala (conferências, feiras,
+                lançamento de marcas, etc).</p>
             </div>
           </div>
 
@@ -251,7 +264,8 @@ trazer resultados para os clientes.
             <div class="icon-box">
               <div class="icon"><i class="bx bx-mouse"></i></div>
               <h4><a href="">Marketing Digital</a></h4>
-              <p>Monitorar a opinião pública, atrair o público desejado, relacionar-se com ele, convertê-lo em cliente e medir os resultados.</p>
+              <p>Monitorar a opinião pública, atrair o público desejado, relacionar-se com ele, convertê-lo em cliente e
+                medir os resultados.</p>
             </div>
           </div>
 
@@ -259,7 +273,8 @@ trazer resultados para os clientes.
             <div class="icon-box">
               <div class="icon"><i class="bx bx-printer"></i></div>
               <h4><a href="">Impressão e Produção de Brindes</a></h4>
-              <p>Qualidade do produto final impresso (digital ou offset) é assegurada pela nossa equipa de colaboradores e parceiros.</p>
+              <p>Qualidade do produto final impresso (digital ou offset) é assegurada pela nossa equipa de colaboradores
+                e parceiros.</p>
             </div>
           </div>
 
@@ -267,7 +282,8 @@ trazer resultados para os clientes.
             <div class="icon-box">
               <div class="icon"><i class="bx bx-devices"></i></div>
               <h4><a href="">Aluguer de Equipamentos</a></h4>
-              <p>Construção de stands personalizados e aluguer de equipamento para feiras (audiovisual, tendas e stands modulares).</p>
+              <p>Construção de stands personalizados e aluguer de equipamento para feiras (audiovisual, tendas e stands
+                modulares).</p>
             </div>
           </div>
 
@@ -290,9 +306,9 @@ trazer resultados para os clientes.
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">Todos</li>
-              <li data-filter=".filter-app">FACIM</li>
-              <li data-filter=".filter-card">FIKANI</li>
-              <li data-filter=".filter-web">South Africa Airways</li>
+              <li data-filter=".filter-facim">FACIM</li>
+              <li data-filter=".filter-fikani">FIKANI</li>
+              <li data-filter=".filter-southafrica">South Africa Airways</li>
               <li data-filter=".filter-cdn">CDN CEAR</li>
               <li data-filter=".filter-spots">SPOTS</li>
             </ul>
@@ -301,95 +317,109 @@ trazer resultados para os clientes.
 
         <div class="row portfolio-container">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-facim">
+            <img src="assets/img/portfolio/FACIM-entrada.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>FACIM</h4>
               <p>Facim</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Facim"><i class="bx bx-plus"></i></a>
-              <a href="facim.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="assets/img/portfolio/FACIM-entrada.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Facim"><i class="bx bx-plus"></i></a>
+              <a href="facim.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-fikani">
+            <img src="assets/img/portfolio/FIKANI.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>FIKANI</h4>
+              <p>Fikani</p>
+              <a href="assets/img/portfolio/FIKANI.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Fikani"><i class="bx bx-plus"></i></a>
+              <a href="fikani.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-southafrica">
+            <img src="assets/img/portfolio/southafrica.JPG" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>SOUTH AFRICA AIRWAYS</h4>
+              <p>South Africa Airways</p>
+              <a href="assets/img/portfolio/southafrica.JPG" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="South Africa Airways"><i class="bx bx-plus"></i></a>
+              <a href="southafricaairways.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cdn">
+            <img src="assets/img/portfolio/cdn logo.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>CDN CEAR</h4>
+              <p>CDN CEAR</p>
+              <a href="assets/img/portfolio/cdn logo.png" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="CDN CEAR"><i class="bx bx-plus"></i></a>
+              <a href="cdncear.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cdn">
+            <img src="assets/img/portfolio/cdn railways.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>CDN CEAR</h4>
+              <p>CDN CEAR</p>
+              <a href="assets/img/portfolio/cdn railways.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="CDN CEAR"><i class="bx bx-plus"></i></a>
+              <a href="cdncear.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-spots">
+            <img src="assets/img/portfolio/spot futuro.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Spot CESC</h4>
+              <p>Spot CESC</p>
+              <a href="assets/img/portfolio/spot futuro.png" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Spot CESC"><i class="bx bx-plus"></i></a>
+              <a href="spots.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-spots">
+            <img src="assets/img/portfolio/zap1.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Spot Zap</h4>
+              <p>Spot Zap</p>
+              <a href="assets/img/portfolio/zap1.png" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Spot Zap"><i class="bx bx-plus"></i></a>
+              <a href="spots.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-spots">
+            <img src="assets/img/portfolio/spot pall mall.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Spot Pall Mall</h4>
+              <p>Spot Pall Mall</p>
+              <a href="assets/img/portfolio/spot pall mall.png" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Spot Pall Mall"><i class="bx bx-plus"></i></a>
+              <a href="spots.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-spots">
+            <img src="assets/img/portfolio/media mais spot.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Spot Media Mais TV</h4>
+              <p>Spot Media Mais TV</p>
+              <a href="assets/img/portfolio/media mais spot.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Spot Media Mais TV"><i class="bx bx-plus"></i></a>
+              <a href="spots.html" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
 
         </div>
 
@@ -413,10 +443,11 @@ trazer resultados para os clientes.
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Temos na OneMedia um aliado que nos garante tranquilidade oferecendo sempre soluções adequadas de comunicação institucional e empresarial.
+                  Temos na OneMedia um aliado que nos garante tranquilidade oferecendo sempre soluções adequadas de
+                  comunicação institucional e empresarial.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/Thobi.jpg" class="testimonial-img" alt="">
                 <h3>Thobi Duma</h3>
                 <h4>Country Manager | SAA</h4>
               </div>
@@ -426,10 +457,11 @@ trazer resultados para os clientes.
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Gerir e realizar grandes eventos nacionais e internacionais, exige uma equipa organizada e multidisciplinar para executar simultaneamente tarefas diversas. É o diferencial da OneMedia.
+                  Gerir e realizar grandes eventos nacionais e internacionais, exige uma equipa organizada e
+                  multidisciplinar para executar simultaneamente tarefas diversas. É o diferencial da OneMedia.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/Romualdo.jpg" class="testimonial-img" alt="">
                 <h3>Romualdo Johnam</h3>
                 <h4>Director Geral | INATUR</h4>
               </div>
@@ -448,7 +480,7 @@ trazer resultados para os clientes.
               </div>
             </div><!-- End testimonial item -->
 
-            
+
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -484,11 +516,12 @@ trazer resultados para os clientes.
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
+              <img src="assets/img/team/Cassamo.jpg" alt="">
               <h4>Cassamo Nuvunga</h4>
               <span>PCA, ONE MEDIA - DIRECTOR EXECUTIVO</span>
               <p>
-                Licenciado em Administração de Empresas pelo Inst. Superior Alberto Chipande e fundador e gestor da ‘CADE’ (ONG) e Onemedia (empresa).
+                Licenciado em Administração de Empresas pelo Inst. Superior Alberto Chipande e fundador e gestor da
+                ‘CADE’ (ONG) e Onemedia (empresa).
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -501,11 +534,12 @@ trazer resultados para os clientes.
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/team/TITO.jpg" alt="">
               <h4>Tito Tezinde</h4>
               <span>MEMBRO DO CONSELHO DE ADMINISTRAÇÃO, ONEMEDIA</span>
               <p>
-                Mestre em Marketing pela University of Western Australia, é também Licenciado em Administração de Empresas pela UEM.
+                Mestre em Marketing pela University of Western Australia, é também Licenciado em Administração de
+                Empresas pela UEM.
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -518,7 +552,7 @@ trazer resultados para os clientes.
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/Sengo.jpg" alt="">
               <h4>Eduardo Sengo</h4>
               <span>MEMBRO DO CONSELHO DE ADMINISTRAÇÃO, ONEMEDIA</span>
               <p>
@@ -534,7 +568,7 @@ trazer resultados para os clientes.
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/MIC.png" alt="">
               <h4>Muchaca Nuvunga</h4>
               <span>MEMBRO DO CONSELHO DE ADMINISTRAÇÃO, ONEMEDIA</span>
               <p>
@@ -557,7 +591,8 @@ trazer resultados para os clientes.
               <h4>Mary Danso</h4>
               <span>DIRECTORA DE PESQUISA E PLANEAMENTO</span>
               <p>
-                Licenciado em Administração de Empresas pelo Inst. Superior Alberto Chipande e fundador e gestor da ‘CADE’ (ONG) e Onemedia (empresa).
+                Licenciado em Administração de Empresas pelo Inst. Superior Alberto Chipande e fundador e gestor da
+                ‘CADE’ (ONG) e Onemedia (empresa).
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -570,11 +605,12 @@ trazer resultados para os clientes.
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/team/SIlvia copy.jpg" alt="">
               <h4>Sílvia Macamo</h4>
               <span>DIRECTORA FINANCEIRA</span>
               <p>
-                Licenciada em Contabilidade e Auditoria pelo ISCAM, Mestranda em Administração e Gestão de Negócios pela UCM.
+                Licenciada em Contabilidade e Auditoria pelo ISCAM, Mestranda em Administração e Gestão de Negócios pela
+                UCM.
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -601,13 +637,13 @@ trazer resultados para os clientes.
               </div>
             </div>
           </div>
-       
+
         </div>
 
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
+              <img src="assets/img/team/Messias.jpg" alt="">
               <h4>Messias Manhiça</h4>
               <span>DIRECTOR DE ARTE</span>
               <p>
@@ -627,7 +663,7 @@ trazer resultados para os clientes.
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/team/Mateus.jpg" alt="">
               <h4>Mateus Salvador</h4>
               <span>DIRECTOR DE PRODUÇÃO
                 ABOVE THE LINE</span>
@@ -645,11 +681,12 @@ trazer resultados para os clientes.
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/Sergio.jpg" alt="">
               <h4>Sérgio Raimundo</h4>
               <span>DIRECTOR DE MÍDIA</span>
               <p>
-                Licenciado em Filosofia pela Universidade Eduardo Mondlane. Redactor, escritor, revisor linguístico e jornalista.
+                Licenciado em Filosofia pela Universidade Eduardo Mondlane. Redactor, escritor, revisor linguístico e
+                jornalista.
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -661,7 +698,7 @@ trazer resultados para os clientes.
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/hero-img.png" alt="">
+              <img src="assets/img/team/Erica.jpg" alt="">
               <h4>Érica Paiva</h4>
               <span>DIRECTORA DE PRODUÇÃO
                 BELOW THE LINE</span>
@@ -675,69 +712,150 @@ trazer resultados para os clientes.
                 <a href=""><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
-          </div> 
+          </div>
         </div>
 
       </div>
     </section><!-- End Team Section -->
-   <!-- ======= Services Section ======= -->
-   <section class="services section-bg">
-    <div class="container">
+    <!-- ======= Services Section ======= -->
+    <section class="services section-bg">
+      <div class="container">
 
-      <div class="section-title">
-   
-        <h2>Nossos Clientes</h2>
-   
+        <div class="section-title">
+
+          <h2>Nossos Clientes</h2>
+
+        </div>
+
+        <div class="row">
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo1.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo2.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo3.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo4.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo5.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo6.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+        </div>
+        <div class="row text-center">
+
+
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo7.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo8.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo9.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo10.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo11.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+        </div>
+        <div class="row">
+
+
+         
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo12.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo13.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo14.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo15.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
+            <div class="">
+
+              <a href="#"><img src="assets/img/clientes/logo17.jpg" class="img-fluid"></a>
+
+            </div>
+          </div>
+        </div>
+
+
+
       </div>
-
-      <div class="row">
-        <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
-          <div class="">
-            
-            <a href=""><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"></a>
-           
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
-          <div class="">
-            
-            <a href=""><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"></a>
-           
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
-          <div class="">
-            
-            <a href=""><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"></a>
-           
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
-          <div class="">
-            
-            <a href=""><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"></a>
-           
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
-          <div class="">
-            
-            <a href=""><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"></a>
-           
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
-          <div class="">
-            
-            <a href=""><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"></a>
-           
-          </div>
-        </div>
-     
-      </div>
-
-    </div>
-  </section><!-- End Services Section -->
+    </section><!-- End Services Section -->
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
@@ -770,7 +888,9 @@ trazer resultados para os clientes.
                 <p>+258 82 3642 642</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3587.178462599489!2d32.57628426502501!3d-25.962186833546113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69b5c24a6dc7f%3A0xddfa37f776c0ed51!2sOne%20Media%20SA!5e0!3m2!1spt-PT!2smz!4v1618910274463!5m2!1spt-PT!2smz" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3587.178462599489!2d32.57628426502501!3d-25.962186833546113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69b5c24a6dc7f%3A0xddfa37f776c0ed51!2sOne%20Media%20SA!5e0!3m2!1spt-PT!2smz!4v1618910274463!5m2!1spt-PT!2smz"
+                frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
 
           </div>
@@ -817,11 +937,12 @@ trazer resultados para os clientes.
     <div class="footer-top">
 
       <div class="container">
-     
+
         <div class="row  justify-content-center">
-          
+
           <div class="col-lg-6">
-            <h1 class="logo"><a><img class="img-thumbnail" style="background-color: transparent;border: none;" src="assets/img/ONEMEDIA.png"/></a></h1>
+            <h1 class="logo"><a><img class="img-thumbnail" style="background-color: transparent;border: none;"
+                  src="assets/img/ONEMEDIA.png" /></a></h1>
             <p>Subscreva e fique actualizado sobre as novidades da One Media.</p>
           </div>
         </div>
@@ -829,7 +950,8 @@ trazer resultados para os clientes.
         <div class="row footer-newsletter justify-content-center">
           <div class="col-lg-6">
             <form action="" method="post">
-              <input type="email" name="email" placeholder="Preencha com seu Email"><input type="submit" value="Subscribe">
+              <input type="email" name="email" placeholder="Preencha com seu Email"><input type="submit"
+                value="Subscribe">
             </form>
           </div>
         </div>
@@ -859,7 +981,8 @@ trazer resultados para os clientes.
     </div>
   </footer><!-- End Footer -->
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -871,7 +994,8 @@ trazer resultados para os clientes.
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/dfbcbdaf3381b7e22aeb06f92/c531896962a43622a1d01bc1a.js");</script>
+  <script
+    id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/dfbcbdaf3381b7e22aeb06f92/c531896962a43622a1d01bc1a.js");</script>
 
 </body>
 
