@@ -497,7 +497,7 @@
           <p>A nossa mais nova aquisição
             é a Estação MRádio
             na Frequência 100.6 fm</p>
-          <a class="cta-btn" href="https://mradiomoz.com/" target="_blank">Sintonize</a>
+          <a class="cta-btn" href="https://mradiomoz.com/" target="_blank">Sintonize <span class="bi bi-broadcast"></span> </a>
         </div>
 
       </div>
